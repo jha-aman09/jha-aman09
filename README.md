@@ -23,7 +23,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="30" height="30"/>
-![:Power BI](https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/Content/Icons/SVG/PowerBI.svg)
 </p>
 
 ### 📊 Skills:
