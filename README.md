@@ -2,7 +2,6 @@
 
 Data Analyst || GGSIPU 👋
 
----
 
 ## 💫 About Me:
 
