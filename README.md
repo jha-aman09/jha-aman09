@@ -1,5 +1,5 @@
 **Hi there, I'm Aman**
-# Data Analyst || GGSIPU 👋
+## Data Analyst || GGSIPU 👋
 
 ## 💫 About Me:
 📊 Data Analyst passionate about turning data into insights  
