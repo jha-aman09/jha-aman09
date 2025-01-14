@@ -1,5 +1,5 @@
 [![An image of @jhaaman09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhaaman09)](https://holopin.io/@jhaaman09)
-[![Data Analysis Banner](https://img.shields.io/badge/Data%20Analysis-Insights%20Through%20Numbers-blue?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/jhaaman09)
+[![Data Analysis Banner](https://img.shields.io/badge/Data%20Analysis-Insights%20Through%20Numbers-blue?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/jha-aman09)
 ### **Hi there, I'm Aman**
 
 #### Data Analyst || GGSIPU 👋
@@ -30,6 +30,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ### 📊 Skills:
 - Data Analysis & Visualization
