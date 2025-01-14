@@ -4,7 +4,7 @@ Data Analyst || GGSIPU 👋
 
 ---
 
-#💫 About Me:
+## 💫 About Me:
 
 📊 Data Analyst passionate about turning data into insights  
 📈 Working on data visualization and analytics projects  
