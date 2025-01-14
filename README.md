@@ -1,4 +1,4 @@
-# Hi there, I'm Aman
+Hi there, I'm Aman
 ## Data Analyst || GGSIPU 👋
 
 ## 💫 About Me:
