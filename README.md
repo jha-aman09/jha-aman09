@@ -1,25 +1,38 @@
 Hi there, I'm Aman
-## Data Analyst || GGSIPU 👋
+# Data Analyst || GGSIPU 👋
 
 ## 💫 About Me:
-💻 Data Analyst 
-🚀 Building SPS .  
-🌱 Currently learning Angular .  
-🚀 Exploring Typescript .  
-👥 Looking to contribute in open source web projects .  
-📬 How to reach me : [pjha78498@gmail.com](mailto:pjha78498@gmail.com)  
+📊 Data Analyst passionate about turning data into insights  
+📈 Working on data visualization and analytics projects  
+🌱 Currently learning Python for Data Science  
+🔍 Exploring Machine Learning & Statistical Analysis  
+👥 Looking to collaborate on data-driven projects  
+📬 How to reach me: [pjha78498@gmail.com](mailto:pjha78498@gmail.com)
 
 ## 🛠️ Languages and Tools:
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
 </p>
 
+## 📊 Skills:
+- Data Analysis & Visualization
+- SQL & Database Management
+- Statistical Analysis
+- Python (Pandas, NumPy, Matplotlib)
+- Excel & Power BI
+- Machine Learning Basics
+- Data Cleaning & Preprocessing
+- Business Intelligence
+
 ## 📫 Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkumarbhu@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pjha78498@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+## 📈 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
