@@ -1,6 +1,6 @@
 ### **Hi there, I'm Aman**
 
-### Data Analyst || GGSIPU 👋
+#### Data Analyst || GGSIPU 👋
 
 ----
 
