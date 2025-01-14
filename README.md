@@ -13,7 +13,7 @@
 👥 Looking to collaborate on data-driven projects  
 📬 How to reach me: [pjha78498@gmail.com](mailto:pjha78498@gmail.com)
 
-## 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
 </p>
 
-## 📊 Skills:
+### 📊 Skills:
 - Data Analysis & Visualization
 - SQL & Database Management
 - Statistical Analysis
@@ -34,9 +34,9 @@
 - Data Cleaning & Preprocessing
 - Business Intelligence
 
-## 📫 Connect with me:
+### 📫 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pjha78498@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman--jha)
 
-## 📈 GitHub Stats:
+### 📈 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jha-aman09&show_icons=true&theme=radical)
