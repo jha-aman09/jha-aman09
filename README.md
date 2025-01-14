@@ -1,13 +1,14 @@
-# SWE || IIITV 👋
+# Hi there, I'm Aman
+
+# Data Analyst || GGSIPU 👋
 
 ## 💫 About Me:
-💻 Full Stack Web Developer  
+💻 Data Analyst 
 🚀 Building SPS .  
 🌱 Currently learning Angular .  
 🚀 Exploring Typescript .  
 👥 Looking to contribute in open source web projects .  
-📬 How to reach me : [omkumarbhu@gmail.com](mailto:omkumarbhu@gmail.com)  
-⚡ Fun fact: There is nothing funny , tbh 😅 .
+📬 How to reach me : [pjha78498@gmail.com](mailto:pjha78498@gmail.com)  
 
 ## 🛠️ Languages and Tools:
 <p align="left">
