@@ -2,13 +2,13 @@
 [![Data Analysis Banner](https://img.shields.io/badge/Data%20Analysis-Insights%20Through%20Numbers-blue?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/jha-aman09)
 ### **Hi there, I'm Aman**
 
-#### Data Analyst || GGSIPU 👋
+#### Data Analyst & Data Engineer || GGSIPU 👋
 
 ----
 
 ### 💫 About Me:
 
-📊 Data Analyst passionate about turning data into insights  
+📊 Data Analyst & Data Engineer passionate about turning data into insights  
 📈 Working on data visualization and analytics projects  
 🌱 Currently learning Python for Data Science  
 🔍 Exploring Machine Learning & Statistical Analysis  
@@ -37,11 +37,17 @@
 - Data Analysis & Visualization
 - SQL & Database Management
 - Statistical Analysis
+- Data Engineering: ETL Pipelines, DBT, Apache Airflow
+- Big Data Technologies: Spark, Hadoop
 - Python (Pandas, NumPy, Matplotlib)
 - Excel & Power BI
+- Containerization & Orchestration: Docker, Kubernetes
 - Machine Learning Basics
 - Data Cleaning & Preprocessing
 - Business Intelligence
+- Cloud Computing: AWS (S3, Redshift, EC2, Lambda), GCP (BigQuery)
+- Data Warehousing: Snowflake, Data Lake
+- API Development & Integration
 
 ### 📫 Connect with me:
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jha_aman09)
