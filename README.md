@@ -34,20 +34,11 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ### 📊 Skills:
-- Data Analysis & Visualization
-- SQL & Database Management
-- Statistical Analysis
-- Data Engineering: ETL Pipelines, DBT, Apache Airflow
-- Big Data Technologies: Spark, Hadoop
-- Python (Pandas, NumPy, Matplotlib)
-- Excel & Power BI
-- Containerization & Orchestration: Docker, Kubernetes
-- Machine Learning Basics
-- Data Cleaning & Preprocessing
-- Business Intelligence
-- Cloud Computing: AWS (S3, Redshift, EC2, Lambda), GCP (BigQuery)
-- Data Warehousing: Snowflake, Data Lake
-- API Development & Integration
+- Data Analytics & Visualization: SQL, Python (Pandas, NumPy, Matplotlib), Power BI, Excel
+- Data Engineering: ETL Pipelines, Apache Airflow, DBT, API Development
+- Big Data & Cloud: Spark, Hadoop, AWS (S3, Redshift, EC2, Lambda), GCP (BigQuery), Snowflake
+- DevOps & Orchestration: Docker, Kubernetes
+- Machine Learning & BI: Data Cleaning, Statistical Analysis, Business Intelligence
 
 ### 📫 Connect with me:
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jha_aman09)
