@@ -8,12 +8,15 @@
 
 ### 💫 About Me:
 
-📊 Data Analyst & Data Engineer passionate about turning data into insights  
-📈 Working on data visualization and analytics projects  
-🌱 Currently learning Python for Data Science  
-🔍 Exploring Machine Learning & Statistical Analysis  
-👥 Looking to collaborate on data-driven projects  
-📬 How to reach me: [pjha78498@gmail.com](mailto:pjha78498@gmail.com)
+🚀 **Data Analyst & Data Engineer** passionate about transforming raw data into actionable insights.  
+📊 Specializing in **Data Analytics, Data Engineering, and Business Intelligence**.  
+🔍 Experienced in **ETL Pipelines, Data Warehousing, and Big Data Technologies**.  
+📈 Skilled in **SQL, Python (Pandas, NumPy, Matplotlib), Power BI, and Excel**.  
+☁️ Proficient in **Cloud Computing (AWS, GCP), Snowflake, and Data Lakes**.  
+⚙️ Knowledge of **Apache Airflow, DBT, Spark, Hadoop, and API Development**.  
+🛠️ Familiar with **DevOps tools like Docker & Kubernetes for data orchestration**.  
+🤝 Looking to collaborate on **data-driven projects and innovative solutions**.  
+📬 How to reach me: [pjha78498@gmail.com](mailto:pjha78498@gmail.com)  
 
 ### 🛠️ Languages and Tools:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
